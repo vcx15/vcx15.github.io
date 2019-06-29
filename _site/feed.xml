@@ -1,72 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-28T22:40:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Homeland of vcx15</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
-</subtitle><entry><title type="html">This is Just Another Post</title><link href="http://localhost:4000/2017/03/25/another-post" rel="alternate" type="text/html" title="This is Just Another Post" /><published>2017-03-25T01:30:13+08:00</published><updated>2017-03-25T01:30:13+08:00</updated><id>http://localhost:4000/2017/03/25/another-post</id><content type="html" xml:base="http://localhost:4000/2017/03/25/another-post">&lt;p&gt;I have some text.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-30T00:09:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Homeland of vcx15</title><subtitle>Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites
+</subtitle><entry><title type="html">开篇</title><link href="http://localhost:4000/2019/06/29/001-%E5%BC%80%E7%AF%87" rel="alternate" type="text/html" title="开篇" /><published>2019-06-29T22:40:13+08:00</published><updated>2019-06-29T22:40:13+08:00</updated><id>http://localhost:4000/2019/06/29/001-%E5%BC%80%E7%AF%87</id><content type="html" xml:base="http://localhost:4000/2019/06/29/001-%E5%BC%80%E7%AF%87">&lt;p&gt;经过两天的折腾，终于在github pages上把这个博客给搭了起来，也终于开始动笔写一些东西了。&lt;/p&gt;
 
-&lt;p&gt;I want some &lt;em&gt;italics&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;其实记录一些学习和生活中的感悟的这个念头很早之前就有了，然而我并不是一个很执著的人，我有着很严重的拖延症，这个念头也一直拖延到了我的学生生涯结束才开始动手实现。虽然这篇博客搭建在github上，但是我并不想把这个个人网站变为一个纯粹进行技术记录与研究的地方，这很大程度上是因为本人兴趣过于广泛，对有趣的事物总想了解一二，对感兴趣的东西都有所涉猎。然而涉猎过广而深度不够，导致对一个问题的研究和看法停留在浅薄的层面，所以我想在这里记录一些生活、工作和学习的一些感悟–无论是技术相关，还是其他方面，通过记录的方式来加深我的认知。&lt;/p&gt;
 
-&lt;p&gt;I want some &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;学生时代的我很讨厌记笔记、记日记，因为我觉得用脑子就能记住干嘛非要写在纸上。这也导致了我总是想的多，做的少，因为我觉得我已经理解了，就不用再费心费力的去弄了。然而随着年龄和阅历的增长，我发现理解和实践的关系和我所想的两者之间的关系那样简单，有些时候你理解了某些东西，却仍然无法轻松的去实践它，而随着你的实践过程的进展，你会发现你的理解可能只是浮于表面，具体的实践过程中的坑要比你的理解要深得多的多。这也使我真正意识到知行合一的重要性。&lt;/p&gt;
 
-&lt;h1 id=&quot;this-is-heading-1&quot;&gt;this is heading 1&lt;/h1&gt;
+&lt;p&gt;年轻人总有一些傲气，我也不例外，看问题很简单只是其中的一个方面。另一方面，学生时代的我总有种老子天下第一的姿态，出了啥问题第一时间都是从其他地方找原因，还附加一些冠冕堂皇的说辞，仿佛这样就能把自己身上的锅甩的干干净净。实际上呢，在你冠冕堂皇地找理由的时候，别人就像看一个小丑在表演一样。而随着我进入大学，开启了我的大学和研究生生涯，也遇到了许多很厉害的人，从这些人身上我学到了许多东西，这些人的厉害之处也让我开始审视自身的一些问题，同时也狠狠地挫了挫我的傲气，甚至在一段时间内总觉得我自己一无是处，弄得自己十分自卑，好在进行了及时地调整。尺有所短，寸有所长嘛。&lt;/p&gt;
 
-&lt;h2 id=&quot;this-is-heading-2&quot;&gt;this is heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;this-is-heading-3&quot;&gt;this is heading 3&lt;/h3&gt;
-
-&lt;p&gt;you want a list?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;first&lt;/li&gt;
-  &lt;li&gt;second&lt;/li&gt;
-  &lt;li&gt;third&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;you want an ordered list?&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-  &lt;li&gt;whatever&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="test" /><summary type="html">I have some text.</summary></entry><entry><title type="html">Syntax Highlighting Test</title><link href="http://localhost:4000/2017/03/24/syntax-test" rel="alternate" type="text/html" title="Syntax Highlighting Test" /><published>2017-03-24T01:30:13+08:00</published><updated>2017-03-24T01:30:13+08:00</updated><id>http://localhost:4000/2017/03/24/syntax-test</id><content type="html" xml:base="http://localhost:4000/2017/03/24/syntax-test">&lt;p&gt;Jekyll uses Rouge by default for syntax highlighting, here are some tests.&lt;/p&gt;
-
-&lt;p&gt;Ruby:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Python with line numbers:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hi, {}&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;C with line numbers:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hi, %s&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Tom&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;cm&quot;&gt;/* prints 'Hi, Tom' to STDOUT. */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><category term="test" /><category term="syntax" /><summary type="html">Jekyll uses Rouge by default for syntax highlighting, here are some tests.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017/03/23/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-23T01:30:13+08:00</published><updated>2017-03-23T01:30:13+08:00</updated><id>http://localhost:4000/2017/03/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017/03/23/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="test" /><category term="Test" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;写了这么多，都是一通胡言乱语，毫无逻辑可言，而自小不爱写文章的我文笔自然也是扎眼的存在。但是这些都不重要，我就是想到哪写到哪，一切看心情。&lt;/p&gt;</content><author><name></name></author><category term="2019-06" /><summary type="html">经过两天的折腾，终于在github pages上把这个博客给搭了起来，也终于开始动笔写一些东西了。</summary></entry></feed>
