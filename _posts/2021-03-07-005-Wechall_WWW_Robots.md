@@ -2,7 +2,7 @@
 layout: post
 title:  "CTF-Wechall-WWW Robots"
 date:   2021-03-07 03:11:13 +0000
-categories: 安全 CTF
+categories: CTF
 tags: 2021-03 CTF 爬虫 WEB
 comments: 0
 ---

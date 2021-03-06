@@ -2,7 +2,7 @@
 layout: post
 title:  "CTF-Wechall-Stegano I"
 date:   2021-03-07 02:47:13 +0000
-categories: 安全 
+categories: CTF 
 tags: 2021-03 CTF 隐写术
 comments: 0
 ---
