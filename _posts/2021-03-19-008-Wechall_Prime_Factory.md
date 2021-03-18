@@ -3,7 +3,7 @@ layout: post
 title:  "CTF-Wechall-ASCII"
 date:   2021-03-07 16:33:13 +0000
 categories: CTF
-tags: 2021-03 CTF ASCII
+tags: 2021-03 CTF 素数
 comments: 0
 ---
 ### 知识点  
