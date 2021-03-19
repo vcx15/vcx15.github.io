@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CTF-Wechall-Prime-Factory"
-date:   2021-03-19 011:6:13 +0000
+date:   2021-03-19 01:16:13 +0000
 categories: CTF
 tags: 2021-03 CTF 素数
 comments: 0
